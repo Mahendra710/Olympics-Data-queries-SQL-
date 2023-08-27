@@ -1,6 +1,7 @@
 # Olympics-Data-queries-SQL-
 
-## Olympics Dataset file: [Click here:](
+## Olympics Dataset file: [Click here:](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/blob/main/Olympics_data.zip)
+
 Here are some queries:
 
 1. How many Olympic games have been held?
