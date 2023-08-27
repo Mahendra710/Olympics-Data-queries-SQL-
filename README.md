@@ -12,7 +12,12 @@ Expected Output:
 
 SQL Script: [Click Here:](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/blob/main/SQLQuery1.sql)
 
-3. List down all Olympic games held so far.
+### 2. List down all Olympic games held so far.
+Expected Output: (Showing few records only)
+![image](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/assets/83266654/60b5795c-5c85-4823-abfa-f399b5e7bc17)
+SQL Script: [Click Here](
+
+
 4. Mention the total no of nations who participated in each olympic game?
 5. Which year saw the highest and lowest no of countries participating in Olympics?
 6. Which nation has participated in all of the Olympic games?
