@@ -4,12 +4,14 @@
 
 Here are queries:
 
-1. How many Olympic games have been held?
+### 1. How many Olympic games have been held?
 
 Expected Output:
 
 ![image](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/assets/83266654/37496b66-91d4-4563-b801-6c8c208f0214)
-SQL Script: [Click Here:](
+
+SQL Script: [Click Here:](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/blob/main/SQLQuery1.sql)
+
 3. List down all Olympic games held so far.
 4. Mention the total no of nations who participated in each olympic game?
 5. Which year saw the highest and lowest no of countries participating in Olympics?
