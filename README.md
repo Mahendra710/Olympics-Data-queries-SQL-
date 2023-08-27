@@ -14,8 +14,10 @@ SQL Script: [Click Here:](https://github.com/Mahendra710/Olympics-Data-queries-S
 
 ### 2. List down all Olympic games held so far.
 Expected Output: (Showing few records only)
+
 ![image](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/assets/83266654/60b5795c-5c85-4823-abfa-f399b5e7bc17)
-SQL Script: [Click Here](
+
+SQL Script: [Click Here](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/blob/main/SQLQuery2.sql)
 
 
 4. Mention the total no of nations who participated in each olympic game?
