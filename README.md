@@ -33,7 +33,8 @@ SQL Script: [Click Here](https://github.com/Mahendra710/Olympics-Data-queries-SQ
 Expected Output: (showing few records only)
 
 ![image](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/assets/83266654/6bd7b0e2-1f43-4f63-9ea7-87d721cfd4e6)
-SQL Script: [Click Here](
+SQL Script: [Click Here](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/blob/main/SQLQuery4.sql)
+
 6. 
 7. Which nation has participated in all of the Olympic games?
 8. Identify the sport that was played in all summer Olympics.
