@@ -21,7 +21,14 @@ Expected Output: (Showing few records only)
 SQL Script: [Click Here](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/blob/main/SQLQuery2.sql)
 
 
-4. Mention the total no of nations who participated in each olympic game?
+### 3. Mention the total no of nations who participated in each olympic game?
+
+Expected Output: (showing few records only)
+
+![image](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/assets/83266654/ff23af57-3068-4413-885c-5061ca2e997d)
+
+SQL Script: [Click Here](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/blob/main/SQLQuery3.sql)
+
 5. Which year saw the highest and lowest no of countries participating in Olympics?
 6. Which nation has participated in all of the Olympic games?
 7. Identify the sport that was played in all summer Olympics.
