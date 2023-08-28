@@ -34,10 +34,16 @@ Expected Output: (showing few records only)
 
 ![image](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/assets/83266654/6bd7b0e2-1f43-4f63-9ea7-87d721cfd4e6)
 
-
 SQL Script: [Click Here](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/blob/main/SQLQuery4.sql)
 
-7. Which nation has participated in all of the Olympic games?
+### 5. Which nation has participated in all of the Olympic games?
+
+Expected Output: (showing few records only)
+
+![image](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/assets/83266654/92aaa842-524e-4825-91c5-7746f9e1e96b)
+
+SQL Script: [Click Here]
+
 8. Identify the sport that was played in all summer Olympics.
 9. Which Sports were played only once in the Olympics?
 10. Fetch the total no of sports played in each Olympic games.
