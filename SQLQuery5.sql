@@ -1,4 +1,4 @@
-
+--Which nation has participated in all of the olympic games
 
 with t as (
 select n.region, o.games
