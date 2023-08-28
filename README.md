@@ -42,7 +42,8 @@ Expected Output: (showing few records only)
 
 ![image](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/assets/83266654/92aaa842-524e-4825-91c5-7746f9e1e96b)
 
-SQL Script: [Click Here]
+SQL Script: [Click Here](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/blob/main/SQLQuery5.sql)
+
 
 8. Identify the sport that was played in all summer Olympics.
 9. Which Sports were played only once in the Olympics?
