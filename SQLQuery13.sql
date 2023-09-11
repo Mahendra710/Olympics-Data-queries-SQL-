@@ -1,8 +1,5 @@
 --Fetch the top 5 most successful countries in olympics. Success is defined by no of medals won
 
-select *
-from olympics_history o 
-join noc_regions n on n.NOC=o.Noc
 
 WITH t1 AS (
     SELECT region, COUNT(medal) AS no_of_medal
