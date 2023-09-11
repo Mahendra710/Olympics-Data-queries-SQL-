@@ -51,7 +51,7 @@ Expected Output:
 
 ![image](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/assets/83266654/bb1e1aa6-d015-4ee7-a408-dd146d0a72ae)
 
-SQL Script: [Click Here]
+SQL Script: [Click Here](https://github.com/Mahendra710/Olympics-Data-queries-SQL-/blob/main/SQLQuery6.sql)
 
 9. Which Sports were played only once in the Olympics?
 10. Fetch the total no of sports played in each Olympic games.
